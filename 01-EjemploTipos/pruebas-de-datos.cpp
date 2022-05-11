@@ -17,6 +17,7 @@ int main ()
     assert (2.0 == 1.0 + 1.0);
     assert (1 == 1.0);
     assert (2 == 1.0 + 1);
+    assert(590.4 != 590.41);
     // prueba string
     assert ("algoritmos"s == "algo"s + "ritmos"s);
     assert ("algoritmos"s.length() == 10);
@@ -28,4 +29,7 @@ int main ()
     assert ( 97 == 'a');
     assert (':' == 58);
     assert ('Y' == 89 );
+     //prueba unsigned
+    assert (18446744073709551615 != 17446744073709551615);
+    assert (12057839573875890058 == 12057839573875890058);
 }
