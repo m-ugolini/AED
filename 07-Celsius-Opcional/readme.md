@@ -7,7 +7,7 @@
 - Alumna: Macarena Ugolini
 
 - Numero y Titulo de Trabajo:
--- 07: Funciones y Comparación de Valores en Punto Flotante — Celsius
+ 07: Funciones y Comparación de Valores en Punto Flotante — Celsius
 - Enunciado:
--- Desarrollar una función que, dada una magnitud en Farehnheit, calcule la
+ Desarrollar una función que, dada una magnitud en Farehnheit, calcule la
 equivalente en Celsius
