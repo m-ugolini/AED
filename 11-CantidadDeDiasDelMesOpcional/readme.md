@@ -1,6 +1,6 @@
 ## Este trabajo se realizo con Visual Studio Code
 
--Algoritmos y Estructura de Datos
+- Algoritmos y Estructura de Datos
 - Curso: K1235
 - Año: 2022
 - Legajo: 2041224
