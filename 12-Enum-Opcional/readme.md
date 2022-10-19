@@ -12,6 +12,6 @@
 1. Escriba un programa que declare una variable que pueda almacenar
 cualquier punto cardinal.
 2. Extender el programa de la sección programa de la sección 1.5. Funciones
-que Retornan o Reciben Tipos Enum del texto "Enumeraciones"1 para que
+que Retornan o Reciben Tipos Enum del texto "Enumeraciones" para que
 contenga una función que dado un día y turno, informe la asignatura que
 debemos cursar.
