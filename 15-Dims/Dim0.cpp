@@ -14,5 +14,5 @@ int main() {
   for (unsigned int venta; file >> venta;) {
     total += venta;
   }
-  std::cout << "Total de ventas:" << " " << total << '\n';
+  std::cout << "Total de ventas:" << total << '\n';
 }
