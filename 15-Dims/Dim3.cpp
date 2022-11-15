@@ -14,14 +14,14 @@ int main() {
     total[region][vendedor][mes] += venta;
 
   for (int i = 0; i < 4; i++) {
-    std::cout << "Region: " << i << '\n';
+    std::cout << "Region: " << i << '\n' << '\n';
 
     for (int j = 0; j < 3; j++) {
-      std::cout << "Vendedor: " << j << '\n';
+      std::cout << "Vendedor: " << j << '\n' << '\n' ;
 
       for (int k = 0; k < 12; k++)
         std::cout << "Mes: " << k << '\t' << "Ventas: " << total[i][j][k]
-                  << '\n';
+                  << '\n' << '\n';
     };
   }
 }
