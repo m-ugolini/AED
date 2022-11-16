@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
 
-enum Prefijos {Veinte = 20, Venticuatro = 24, Veintitres = 23, Ventisiete = 27};
+enum struct Prefijos {Veinte = 20, Venticuatro = 24, Veintitres = 23, Ventisiete = 27};
 
-enum Sufijos { Uno = 1, Dos, Tres, Cuatro, Cinco, Seis, Siete, Ocho, Nueve };
+enum struct Sufijos { Uno = 1, Dos, Tres, Cuatro, Cinco, Seis, Siete, Ocho, Nueve };
 
 void crearCuil(std::string);
 
